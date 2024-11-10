@@ -37,12 +37,12 @@
 - Enhanced UI with Tailwind CSS, creating visually appealing designs for smooth interactions.
 - Improved data handling with Rest APIs for efficient data fetching and manipulation.
 
-**Green Flower Shop,** _[**Project Link**](#https://greenshopclone.netlify.app/)_
+**Green Flower Shop,** _[**Project Link**](https://greenshopclone.netlify.app/)_
 
 - Developed a robust shopping cart management system using React JS and Redux Toolkit, providing efficient state management for the application.
 - Implemented user authentication to ensure secure access and data protection.
 
-**Vention Clone,** _[**Project Link**](#https://ventionclone.netlify.app/)_
+**Vention Clone,** _[**Project Link**](https://ventionclone.netlify.app/)_
 
 - Created a simple web page using React JS and Tailwind CSS, focusing on clear design and user-friendly elements suitable for a landing page.
 - Demonstrated strong web design skills by prioritizing a clean layout and intuitive user interface.
@@ -77,8 +77,8 @@
 
 - **Hackathons**: Participated in several hackathons organized by Najot Ta’lim.
 - **Certifications**:
-  - IELTS
-  - EF Set
-  - Brght.org
+  - [IELTS](https://drive.google.com/file/d/1Dtt56RhRYDbK2vkbrmzDp8ve-SiASy1y/view?usp=drive_link)
+  - [EF Set](https://cert.efset.org/Z7GScE)
+  - [Brght.org]
 - **Awards**:
   - Two-time winner of the Science Olympiad held by the Ministry of Education of Uzbekistan in the subject “Fundamentals of Economics”
