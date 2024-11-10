@@ -77,8 +77,10 @@
 
 - **Hackathons**: Participated in several hackathons organized by Najot Ta’lim.
 - **Certifications**:
+
   - [IELTS](https://drive.google.com/file/d/1Dtt56RhRYDbK2vkbrmzDp8ve-SiASy1y/view?usp=drive_link)
   - [EF Set](https://cert.efset.org/Z7GScE)
-  - [Brght.org]
+  - [Brght.org Profile](https://brght.org/profile/rahimjon-abduraximov/?utm_source=share&utm_medium=copy&utm_campaign=profile)
+
 - **Awards**:
   - Two-time winner of the Science Olympiad held by the Ministry of Education of Uzbekistan in the subject “Fundamentals of Economics”
