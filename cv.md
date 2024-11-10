@@ -48,3 +48,37 @@
 - Demonstrated strong web design skills by prioritizing a clean layout and intuitive user interface.
 
 ---
+
+### Education
+
+- **Academic Lyceum of Fergana Branch of TUIT**  
+  _Sep 2020 - May 2022_  
+  Major: Exact Science | GPA: 4.7/5
+
+- **Tashkent State University of Economics**  
+  _Sep 2022 - Present_  
+  Major: Banking and Auditing | GPA: 4.4/5
+
+- **Najot Ta’lim LLC**  
+  _Nov 2023 - Jun 2024_  
+  Major: Frontend Web Development (React JS)
+
+---
+
+### Languages
+
+- Uzbek (native)
+- English (upper-Intermediate)
+- Russian (beginner)
+
+---
+
+### Awards/Activities
+
+- **Hackathons**: Participated in several hackathons organized by Najot Ta’lim.
+- **Certifications**:
+  - IELTS
+  - EF Set
+  - Brght.org
+- **Awards**:
+  - Two-time winner of the Science Olympiad held by the Ministry of Education of Uzbekistan in the subject “Fundamentals of Economics”
