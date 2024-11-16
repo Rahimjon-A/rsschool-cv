@@ -1,3 +1,3 @@
-# The link to go to CV
+https://rahimjon-a.github.io/rsschool-cv/cv
 
-## [Click here](https://rahimjon-a.github.io/rsschool-cv/cv)
+https://rahimjon-a.github.io/rsschool-cv/
